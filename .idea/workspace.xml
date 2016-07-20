@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/DataWrangling/ch3/import_json.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.21028037">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -531,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/DataWrangling/ch3/import_json.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21028037">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>

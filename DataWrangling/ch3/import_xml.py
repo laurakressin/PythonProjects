@@ -14,7 +14,7 @@ for observation in data:
         lookup_key = item.attrib.keys()[0]
 
         if lookup_key == 'Numeric':
-            rec_key = 'Numeric'
+            rec_key = 'NUMERIC'
             rec_value = item.attrib['Numeric']
         else:
             rec_key = item.attrib[lookup_key]
@@ -24,6 +24,4 @@ for observation in data:
 
     all_data.append(record)
 
-for observation in data:
-    for item in observation:
-        print item.attrib
+print all_data

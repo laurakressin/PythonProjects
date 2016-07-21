@@ -24,4 +24,4 @@ for observation in data:
 
     all_data.append(record)
 
-print dir(root)
+print list(root)

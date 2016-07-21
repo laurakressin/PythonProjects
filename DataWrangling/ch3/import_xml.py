@@ -24,4 +24,6 @@ for observation in data:
 
     all_data.append(record)
 
-print list(data)
+for observation in data:
+    for item in observation:
+        print item

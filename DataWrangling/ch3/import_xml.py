@@ -26,4 +26,4 @@ for observation in data:
 
 for observation in data:
     for item in observation:
-        print list(item)
+        print item.attrib

@@ -5,8 +5,6 @@ root = tree.getroot()
 
 data = root.find('Data')
 
-print root
-
 all_data = []
 
 for observation in data:
@@ -26,3 +24,4 @@ for observation in data:
 
     all_data.append(record)
 
+print dir(root)

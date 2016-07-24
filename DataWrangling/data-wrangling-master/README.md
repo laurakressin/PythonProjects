@@ -1,3 +1,8 @@
+### Book errors
+
+Ch. 4: page 84
+- for loop says count should be less than one, but if statement i >= 14.  This does not allow the if statement to run, so it returns the original data value: {}
+
 ## Data Wrangling with Python
 
 Welcome to the code repository for [Data Wrangling with Python](http://shop.oreilly.com/product/0636920032861.do)! We hope you find the code and data here useful. If you have any questions reach out to @kjam or @JackieKazil on Twitter or GitHub.

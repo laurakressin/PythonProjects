@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9452deed-ddfc-4e5e-b440-e91036c7717d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataWrangling/ch4/parse_excel.py" afterPath="$PROJECT_DIR$/DataWrangling/ch4/parse_excel.py" />
     </list>
     <ignored path="PythonProjects.iws" />
@@ -57,8 +56,18 @@
       <file leaf-file-name="parse_excel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataWrangling/ch4/parse_excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63084114">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17523365">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataWrangling/data-wrangling-master/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.6666666">
+              <caret line="3" column="160" selection-start-line="3" selection-start-column="160" selection-end-line="3" selection-end-column="160" />
               <folding />
             </state>
           </provider>
@@ -87,6 +96,7 @@
         <option value="$PROJECT_DIR$/DataWrangling/ch3/import_json.py" />
         <option value="$PROJECT_DIR$/DataWrangling/ch3/dog_ex.py" />
         <option value="$PROJECT_DIR$/DataWrangling/ch3/import_xml.py" />
+        <option value="$PROJECT_DIR$/DataWrangling/data-wrangling-master/README.md" />
         <option value="$PROJECT_DIR$/DataWrangling/ch4/parse_excel.py" />
       </list>
     </option>
@@ -623,10 +633,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataWrangling/data-wrangling-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6666666">
+          <caret line="3" column="160" selection-start-line="3" selection-start-column="160" selection-end-line="3" selection-end-column="160" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataWrangling/ch4/parse_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63084114">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17523365">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>

@@ -2,6 +2,7 @@
 
 Ch. 4: page 84
 - for loop says count should be less than one, but if statement i >= 14.  This does not allow the if statement to run, so it returns the original data value: {}
+- keep if count < 20:
 
 Ch. 5: page 94
 - command to fix pdfminer error is actually pip install --upgrade --ignore-installed slate==0.3 pdfminer==20110515

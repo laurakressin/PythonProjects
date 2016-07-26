@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9452deed-ddfc-4e5e-b440-e91036c7717d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataWrangling/ch5/EN-FINAL Table 9.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataWrangling/ch5/parse_pdf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9452deed-ddfc-4e5e-b440-e91036c7717d" name="Default" comment="" />
     <ignored path="PythonProjects.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

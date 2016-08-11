@@ -13,11 +13,14 @@ raw_input("?")
 
 # open the file to writes
 print "Opening the file..."
-target = open(filename, 'w')
+target = open(filename)
 
-# empties the file
-print "Truncating the file.  Goodbye!"
-target.truncate()
+
+# checking contents
+print "Let's see what you've got"
+print target.read()
+
+target = open(filename, 'w')
 
 print "Now I'm going to ask you for three lines."
 
@@ -26,15 +29,12 @@ line1 = raw_input("line 1: ")
 line2 = raw_input("line 2: ")
 line3 = raw_input("line 3: ")
 
+lines = line1 + "\n" + line2 + "\n" + line3 + "\n"
+
 print "I'm going to write these to the file."
 
 # writes the three lines into the file with a line break between lines
-target.write(line1)
-target.write("\n")
-target.write(line2)
-target.write("\n")
-target.write(line3)
-target.write("\n")
+target.write(lines)
 
 # closes the file
 print "And finally, we close it."
